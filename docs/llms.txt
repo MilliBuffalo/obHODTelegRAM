@@ -1,0 +1,19 @@
+# obHODTelegRAM
+
+> Новая версия с поддержкой Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+
+obHODTelegRAM возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+
+## Страницы
+- Сайт: https://millibuffalo.github.io/obHODTelegRAM/
+- Релиз: https://github.com/MilliBuffalo/obHODTelegRAM/releases/latest
+- Исходный код: https://github.com/MilliBuffalo/obHODTelegRAM
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
